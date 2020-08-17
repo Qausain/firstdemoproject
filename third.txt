@@ -1,1 +1,3 @@
 This is a 2nd file created for smart git
+
+new line added using git hub online editor
