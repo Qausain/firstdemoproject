@@ -5,3 +5,5 @@ For git hub
 demo world
 
 changes from online github using editor
+
+this change is using smart git
